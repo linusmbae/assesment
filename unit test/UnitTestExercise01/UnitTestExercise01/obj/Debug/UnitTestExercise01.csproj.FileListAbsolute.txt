@@ -1,0 +1,14 @@
+C:\Users\linus\AppData\Local\Temporary Projects\UnitTestExercise01\bin\Debug\UnitTestExercise01.dll
+C:\Users\linus\AppData\Local\Temporary Projects\UnitTestExercise01\bin\Debug\UnitTestExercise01.pdb
+C:\Users\linus\AppData\Local\Temporary Projects\UnitTestExercise01\bin\Debug\Exercise01.dll
+C:\Users\linus\AppData\Local\Temporary Projects\UnitTestExercise01\bin\Debug\Exercise01.pdb
+C:\Users\linus\AppData\Local\Temporary Projects\UnitTestExercise01\obj\Debug\UnitTestExercise01.csprojResolveAssemblyReference.cache
+C:\Users\linus\AppData\Local\Temporary Projects\UnitTestExercise01\obj\Debug\UnitTestExercise01.dll
+C:\Users\linus\AppData\Local\Temporary Projects\UnitTestExercise01\obj\Debug\UnitTestExercise01.pdb
+E:\assignment\trial1\unit test\UnitTestExercise01\UnitTestExercise01\bin\Debug\UnitTestExercise01.dll
+E:\assignment\trial1\unit test\UnitTestExercise01\UnitTestExercise01\bin\Debug\UnitTestExercise01.pdb
+E:\assignment\trial1\unit test\UnitTestExercise01\UnitTestExercise01\bin\Debug\Exercise01.dll
+E:\assignment\trial1\unit test\UnitTestExercise01\UnitTestExercise01\bin\Debug\Exercise01.pdb
+E:\assignment\trial1\unit test\UnitTestExercise01\UnitTestExercise01\obj\Debug\UnitTestExercise01.csprojResolveAssemblyReference.cache
+E:\assignment\trial1\unit test\UnitTestExercise01\UnitTestExercise01\obj\Debug\UnitTestExercise01.dll
+E:\assignment\trial1\unit test\UnitTestExercise01\UnitTestExercise01\obj\Debug\UnitTestExercise01.pdb

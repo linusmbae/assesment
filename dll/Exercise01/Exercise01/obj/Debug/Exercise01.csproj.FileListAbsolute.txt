@@ -1,0 +1,4 @@
+E:\assignment\trial1\dll\Exercise01\Exercise01\bin\Debug\Exercise01.dll
+E:\assignment\trial1\dll\Exercise01\Exercise01\bin\Debug\Exercise01.pdb
+E:\assignment\trial1\dll\Exercise01\Exercise01\obj\Debug\Exercise01.dll
+E:\assignment\trial1\dll\Exercise01\Exercise01\obj\Debug\Exercise01.pdb

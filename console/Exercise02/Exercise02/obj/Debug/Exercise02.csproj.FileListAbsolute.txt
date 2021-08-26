@@ -1,0 +1,9 @@
+C:\Users\linus\AppData\Local\Temporary Projects\Exercise02\bin\Debug\Exercise02.exe.config
+E:\assignment\trial1\console\Exercise02\Exercise02\bin\Debug\Exercise02.exe.config
+E:\assignment\trial1\console\Exercise02\Exercise02\bin\Debug\Exercise02.exe
+E:\assignment\trial1\console\Exercise02\Exercise02\bin\Debug\Exercise02.pdb
+E:\assignment\trial1\console\Exercise02\Exercise02\bin\Debug\Exercise01.dll
+E:\assignment\trial1\console\Exercise02\Exercise02\bin\Debug\Exercise01.pdb
+E:\assignment\trial1\console\Exercise02\Exercise02\obj\Debug\Exercise02.csprojResolveAssemblyReference.cache
+E:\assignment\trial1\console\Exercise02\Exercise02\obj\Debug\Exercise02.exe
+E:\assignment\trial1\console\Exercise02\Exercise02\obj\Debug\Exercise02.pdb
